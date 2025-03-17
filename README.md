@@ -13,3 +13,11 @@ Prosty symulator windows 95 dla arduino mega
 -Ekran 320x480:
 
 ![He2913383f288485aaab42189a12447f5f jpg_640x640q90](https://github.com/user-attachments/assets/8e7d389e-c0c9-4219-a4a6-7ad20e3c8be1)
+
+
+*Shemat podłączenia guzikuw:
+
+![podłączenie pinuw](https://github.com/user-attachments/assets/4effd889-dade-4308-b4d3-9eab4e8096e4)
+
+
+a ekran pinami patsz na gnd i 5v oraz reset
